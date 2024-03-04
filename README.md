@@ -3,6 +3,9 @@ Employee Directory Project with JWT Secuirty
 
 Prerequisite: Java 11
 
+Note: Please install lombrok in your IDE to compile this project
+successfully.
+
 Description:
 
 1. To access the API, the initial step involves generating a token via the API endpoint "http://localhost:8080/auth/login", wherein the request body is specified.
